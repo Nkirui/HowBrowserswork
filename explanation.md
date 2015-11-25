@@ -1,16 +1,14 @@
 <html>
-    <head><h1>How browsers work</h1></head>
+    <head>How browsers work </head>
     <body> 
     
-
 <p> A browser is software that is used to access the internet also called a client.
-     A browser lets you visit websites and do activities within them like login, view multimedia, link from one site to another, 
-     visit one page from another, print, send and receive email, among many other activities.</p>
-        
-    <p>There are five major browsers used on desktop today: Chrome, Internet Explorer, Firefox, Safari and Opera. On mobile,
-   the main browsers are Android Browser, iPhone, Opera Mini and Opera Mobile, UC Browser, the Nokia S40/S60 browsers and Chrome–all of which, 
-   except for the Opera browsers, are based on WebKit. How does a web browser work? </p>
-    
+A browser lets you visit websites and do activities within them like login, view multimedia, link from one site to      another, visit one page from another, print, send and receive email, among many other activities.</p>
+<p>
+There are five major browsers used on desktop today: Chrome, Internet Explorer, Firefox, Safari and Opera. On mobile,
+the main browsers are Android Browser, iPhone, Opera Mini and Opera Mobile, UC Browser, the Nokia S40/S60 browsers and Chrome–all of which, 
+except for the Opera browsers, are based on WebKit. How does a web browser work? </p>
+
 <p>As you already know, to view a web site or a web page in a browser, you would either type in the URL or click on a link (as one in your Favorites/Bookmarks) and hit the Go button. Now, the page you have asked the browser to display would probably be located on a Server computer far far away. The web browser program sends a request (Could I have the web page please?) to a web server program running on the remote computer.</p>
 
 <p>The server program, gathers the request from the web browser, tries to hunt for the web page and then formulates a response. 
